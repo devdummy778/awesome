@@ -11,3 +11,4 @@ const bikes = [
 ];
 
 const password = "password123"
+const gh = "something else"
